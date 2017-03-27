@@ -1,2 +1,7 @@
-# Created by .ignore support plugin (hsz.mobi)
 /node_modules
+bundle.js
+npm-debug.log
+
+# IntelliJ
+*.iml
+/.idea
