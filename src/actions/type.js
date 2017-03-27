@@ -1,0 +1,1 @@
+export const ACTIVE_BOOK = 'active_book';
